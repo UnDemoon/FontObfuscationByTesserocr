@@ -1,0 +1,7 @@
+/tessdata-main/
+/build/
+/data/
+/dist/
+/venv/
+/.idea/
+/__pycache__/
